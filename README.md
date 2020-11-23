@@ -1,5 +1,5 @@
 # next-sanitize-filename
-> Sanitize a string to be safe for use as a filename by removing customize list.
+> Sanitize a string to be safe for use as a filename by customize list.
 
 [![version][version-image]][version-url]
 [![license][license-image]][license-url]
