@@ -3,7 +3,7 @@
  * description: Sanitize a string to be safe for use as a filename by removing customize list.
  * homepage: https://github.com/afeiship/next-sanitize-filename
  * version: 1.0.0
- * date: 2020-11-23 14:34:48
+ * date: 2020-11-23 14:36:53
  * license: MIT
  */
 

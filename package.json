@@ -40,5 +40,13 @@
   "dependencies": {
     "@jswork/next-array-replace": "^1.0.0",
     "sanitize-filename": "^1.6.3"
-  }
+  },
+  "keywords": [
+    "next",
+    "sanitize",
+    "strip",
+    "filename",
+    "dictionary",
+    "replacement"
+  ]
 }
