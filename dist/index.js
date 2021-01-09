@@ -1,9 +1,9 @@
 /*!
  * name: @jswork/next-sanitize-filename
- * description: Sanitize a string to be safe for use as a filename by removing customize list.
+ * description: Sanitize a string to be safe for use as a filename by customize list.
  * homepage: https://github.com/afeiship/next-sanitize-filename
- * version: 1.0.0
- * date: 2020-11-23 14:36:53
+ * version: 1.0.1
+ * date: 2021-01-09 16:44:23
  * license: MIT
  */
 
